@@ -1,5 +1,5 @@
 /* ================================================= */
-/* zhTokenizer - Replacement of Bloodhound Tokenizer */
+/* zhTokenizer - Bloodhound Tokenizer for Chinese    */
 /* ================================================= */
 
 /* by Fai Chan (iafnahc@gmail.com) July 2017 */
